@@ -1,0 +1,21 @@
+{
+    "firstName": "Tom",
+    "lastName": "Alter",
+    "careerObjective" : "To build good application and help the company to grow",
+    "social": {
+    "github":"github url",
+    "linkedIn": "linkedIn url"
+    },
+    "skills": ["HTML", "CSS", "JavaScript", "Angular2+"],
+    "education": [
+    {
+    "school": "K V Bangalore",
+    "degree" : "12th"
+    },
+    {
+    "school": "XYZ engineering college",
+    "degree": "BTech",
+    "from": "2015",
+    "to": "2019"
+    }]
+}
